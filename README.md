@@ -1,7 +1,7 @@
 # Shifting from manual to automation for cloud set up with AWS CDK
 
-**Published:** 2024-09-23
-**Medium:** [https://medium.com/@kyle-t-jones/shifting-from-manual-to-automation-for-cloud-set-up-with-aws-cdk-05528c79b3b2](https://medium.com/@kyle-t-jones/shifting-from-manual-to-automation-for-cloud-set-up-with-aws-cdk-05528c79b3b2)
+Published: 2024-09-23
+Medium: [https://medium.com/@kyle-t-jones/shifting-from-manual-to-automation-for-cloud-set-up-with-aws-cdk-05528c79b3b2](https://medium.com/@kyle-t-jones/shifting-from-manual-to-automation-for-cloud-set-up-with-aws-cdk-05528c79b3b2)
 
 ## About
 
